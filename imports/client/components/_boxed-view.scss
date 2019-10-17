@@ -1,0 +1,27 @@
+
+.boxed-view__box {
+    background: #fff;
+    max-width: 500px;
+    padding: 50px;
+
+    h2{
+        margin: 0;
+        padding-bottom: 30px;
+    }
+}
+
+.boxed-view__form {
+    display: flex;
+    flex-direction: column;
+}
+
+.boxed-view__error {
+    padding-top: 10px;
+}
+
+.boxed-view__link{
+    padding-top: 30px;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 0.5px;
+}

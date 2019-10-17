@@ -1,0 +1,1 @@
+export const primary = "deep-purple lighten-2";
